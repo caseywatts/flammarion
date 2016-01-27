@@ -17,8 +17,9 @@ or buttons without going through too much trouble.
 ## Installation
 
 First, you need to install [electron](http://electron.atom.io/) or [chrome](http://www.google.com/chrome)
-and make sure it's in your path. (*Note:* On Windows, currently only chrome
-works, but you don't need to worry about putting it in your path.)
+and make sure it's in your path.
+- On OSX / Linux: To put electron in your path, you can `npm install electron-prebuilt -g`, [see their github page](https://github.com/atom/electron)
+- On Windows: currently only chrome works, but you don't need to worry about putting it in your path
 
 Then you can install the gem:
 
